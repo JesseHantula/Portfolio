@@ -31,7 +31,7 @@ const Projects = () => {
                     </div>
                 </Column>
                 <Column md={6}>
-                    <div style={{'textAlign': 'left', 'marginTop': '50px', fontsize: '24px'}}>
+                    <div style={{'textAlign': 'left', 'marginTop': '50px'}}>
                         <h3>About the project: </h3>
                         &nbsp; &nbsp; &nbsp; &nbsp;{project.description} <br />
                         <h3 style={{marginTop: '50px'}}>Check out the project here:

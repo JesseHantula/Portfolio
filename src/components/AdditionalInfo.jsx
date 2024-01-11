@@ -63,7 +63,7 @@ const AdditionalInfo = () => {
                 <a href='/CV-Jesse-Hantula.pdf' download="jesse-hantula-cv.pdf">
                     <br /> Download Jesse Hantula's CV (pdf)
                 </a>
-                <p><em style={{'font-size': '12px'}}>CV last updated: 11th Jan, 2024</em></p>
+                <p><em style={{'fontSize': '12px'}}>CV last updated: 11th Jan, 2024</em></p>
             </div>
         </div>
     )
