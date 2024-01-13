@@ -36,7 +36,7 @@ const Intro = () => {
                 <Col md={6}>
                     <h2>A short introduction</h2>
                     <div className="image-container">
-                    <img src='/jesse.jpeg' height='400px' /> <img src='/jesse2.jpeg' height='400px' />
+                    <img src='/jesse2.jpeg' height='400px' style={{'marginLeft': '140px'}}/> 
                     </div>
                     <p style={{ fontSize: '18px', textAlign: 'left', marginTop: '20px' }}>{aboutMeText.message}</p>
                 </Col>
