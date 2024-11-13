@@ -25,6 +25,15 @@ const projectsText = {
         link: "https://github.com/JesseHantula/Flawed-Website-Project",
         fields: ["Web development", "Cybersecurity"],
         date: "January 2023"
+    },
+    p4: {
+        name: "MindLink",
+        tools: ["React Native", "GraphQL", "Apollo Client", "Django"],
+        image: "MindLink.png",
+        description: "A project made for the Junction 2024 Hackathon. MindLink is a mobile application that allows job seekers to connect with companies that fit their interests; most importantly, their personal values and mental health needs. The information that is gathered from both job-seekers and companies during registration is used to calculate a compatibility score between the two parties. The application allows job seekers to scroll through potential job opportunities, which are often from companies that are compatible with the job seeker's values and preferences. For more information regarding the app, including a video presentation displaying the app's features, check out the repository below.",
+        link: "https://github.com/JesseHantula/junction2024",
+        fields: ["Mobile development", "Hackathon"],
+        date: "November 2024"
     }
 }
 

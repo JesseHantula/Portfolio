@@ -26,7 +26,7 @@ const Projects = () => {
                             </React.Fragment>
                         ))} <br />
                         <div style={{'marginBottom': '50px'}}>
-                        <strong>Made:</strong> {project.date} <br />
+                        <strong>Created:</strong> {project.date} <br />
                         </div>
                     </div>
                 </Column>
